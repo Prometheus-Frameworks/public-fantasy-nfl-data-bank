@@ -1,2 +1,2 @@
 # public-fantasy-nfl-data-bank
-NFL / fantasy football data for TIBER and subsequent models
+public NFL fantasy data warehouse (nflreadpy + PFR + NGS) — clean Parquet, derived metrics, reproducible ETL
